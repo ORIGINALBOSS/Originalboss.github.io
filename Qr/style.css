@@ -1,0 +1,35 @@
+body{
+    max-width: 1400px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+div.container{
+    display: grid;
+    background-color: white;
+    width: 50vh;
+    height: 75vh;
+    margin: auto;
+    border-radius: 13px;
+}
+
+div.card img {
+    width: 47vh;
+    margin: 10px;
+    border-radius: 13px;
+}
+
+div.content{
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+}
+
+h3{
+    font-weight: 900; 
+}
+
+p{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
